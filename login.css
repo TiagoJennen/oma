@@ -1,0 +1,51 @@
+body{
+  background-color: whitesmoke;
+  font-family: 'Arimo';
+}
+.loginBox{
+  background-color: white;
+  margin-top: 150px;
+  margin-left: 310px;
+  width: 900px;
+  height: 500px;
+  border-radius: 10px;
+}
+#loginFoto{
+  width: 450px;
+  height: 500px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+#loginWelcome{
+  margin-top: -300px;
+  margin-left: 60px;
+  font-size: 40px;
+  color: white;
+}
+#loginLine{
+  height: 100px;
+  width: 300px;
+  margin-top: -50px;
+  margin-left: 30px;
+  float: inline-start;
+  color: white;
+}
+#loginText{
+  margin-left: 620px;
+  margin-top: -300px;
+  font-size: 33px;
+}
+#loginbarUname{
+  width: 200px;
+  height: 60px;
+margin-top: 200px;
+  margin-left: 500px;
+  background-color: whitesmoke;
+  margin-bottom: 30px;
+}
+#loginbarWw{
+  width: 200px;
+  height: 60px;
+  margin-left: 500px;
+  background-color: whitesmoke;
+}
