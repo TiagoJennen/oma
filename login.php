@@ -8,18 +8,18 @@
   <link rel="stylesheet" href="login.css">
 </head>
 <body>
-  <form action="connect.php" method="post">
+  <form action="authenticate.php" method="post">
   <div class="loginBox">
     <img id="loginFoto" src="fit.jpg" alt="">
     <p id="loginWelcome">WELCOME BACK</p>
     <p id="loginLine">____________________________________________</p>
-    <p id="registerText">REGISTER</p>
+    <p id="loginText">LOGIN</p>
     <p id="unameBluebox"></p>
-    <input id="loginbarUname" type="text" class="form-control" id="email" name="email" placeholder="Username">
+    <input id="loginbarUname" type="text" name="username" placeholder="Username">
     <p id="wwBluebox"></p>
-    <input id="loginbarWw" type="password" class="form-control" id="password" name="password" placeholder="Password">
-    <p id="loginToRegister" onclick="window.location.href='./index.html'">Back to Login</p>
-    <button id="loginButton" type="submit">Register</button>
+    <input id="loginbarWw" type="password" name="password" placeholder="Password">
+    <p id="loginToRegister" onclick="window.location.href='./register.php'">Make an Account</p>
+    <button id="loginButton" type="submit">Login</button>
   </form>
   </div>
 </body>

@@ -1,30 +1,29 @@
 <?php
-	$email = $_POST['email'];
+session_start();
+include_once("conn.php");
+
+	$username = $_POST['username'];
 	$password = $_POST['password'];
 
-	if (empty($email)) {
-        header("Location: registreren.php?error=User Name is required");
+	if (empty($username)) {
+        header("Location: register.php?error=User Name is required");
         exit();
     }
 	else if(empty($password)){
-        header("Location: registreren.php?error=Password is required");
+        header("Location: register.php?error=Password is required");
         exit();
     }
 
-	$conn = new mysqli('localhost','root','','test');
-	if($conn->connect_error){
-		echo "$conn->connect_error";
-		die("Connection Failed : ". $conn->connect_error);
-	} else {
-		$stmt = $conn->prepare("insert into login(userName, password) values(?, ?)"); 
-		$stmt->bind_param("ss", $email, $password);
+	
+		$stmt = $con->prepare("INSERT into users(username, password) values(?, ?)"); 
+		$stmt->bind_param("ss", $username, $password);
 		$execval = $stmt->execute();
 		echo $execval;
 		$stmt->close();
-		$conn->close();
-		header("Location: index.php");
+		$con->close();
+		header("Location: login.php");
 		exit();
-	}
+	
 
 ?>
 
