@@ -18,7 +18,7 @@
     <input id="loginbarUname" type="text" class="form-control" id="username" name="username" placeholder="Username">
     <p id="wwBluebox"></p>
     <input id="loginbarWw" type="password" class="form-control" id="password" name="password" placeholder="Password">
-    <p id="loginToRegister" onclick="window.location.href='./index.php'">Back to Login</p>
+    <p id="loginToRegister" onclick="window.location.href='./login.php'">Back to Login</p>
     <button id="loginButton" type="submit">Register</button>
   </form>
   </div>

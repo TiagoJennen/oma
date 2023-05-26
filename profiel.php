@@ -14,4 +14,4 @@ if (isset($_SESSION['id'])) {
 $user_id = $_SESSION['id'];
 
 ?>
-    <p onclick="window.location.href='./profiel.php'">to profiel</p>
+
