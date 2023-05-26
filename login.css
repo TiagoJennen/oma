@@ -1,14 +1,16 @@
 body{
   background-color: whitesmoke;
-  font-family: 'Arimo';
+  font-family: Arial, sans-serif;
 }
 .loginBox{
   background-color: white;
+  position: relative;
   margin-top: 150px;
   margin-left: 310px;
   width: 900px;
   height: 500px;
   border-radius: 10px;
+  z-index: 1;
 }
 #loginFoto{
   width: 450px;
@@ -34,18 +36,94 @@ body{
   margin-left: 620px;
   margin-top: -300px;
   font-size: 33px;
+  font-style: normal;
+}
+#registerText{
+  margin-left: 590px;
+  margin-top: -300px;
+  font-size: 33px;
+  font-style: normal;
 }
 #loginbarUname{
-  width: 200px;
-  height: 60px;
-margin-top: 200px;
+  width: 320px;
+  height: 58px;
+  margin-top: 0px;
   margin-left: 500px;
   background-color: whitesmoke;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  position: relative;
+  padding-left: 30px;
+  border: 0;
+  z-index: 1;
+  outline: 0;
+  font-size: 15px;
+}
+#loginbarUname::placeholder{
+  color: #CFCDCD;
 }
 #loginbarWw{
-  width: 200px;
-  height: 60px;
+  width: 320px;
+  height: 58px;
   margin-left: 500px;
   background-color: whitesmoke;
+  border-radius: 20px;
+  cursor: pointer;
+  position: relative;
+  padding-left: 30px;
+  border: 0;
+  z-index: 1;
+  outline: 0;
+  font-size: 15px;
+}
+#loginbarWw::placeholder{
+  color: #CFCDCD;
+}
+#unameBluebox{
+  height: 60px;
+  position: relative;
+  width: 20px;
+  background-color: #5450D1;
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-bottom: -60px;
+  z-index: 5;
+}
+#wwBluebox{
+  height: 60px;
+  position: relative;
+  width: 20px;
+  background-color: #5450D1;
+  margin-left: 500px;
+  margin-bottom: -60px;
+  z-index: 5;
+}
+#loginToRegister{
+  margin-left: 500px;
+  margin-top: 20px;
+  color: #5450D1;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  font-family: 'Arimo';
+  cursor: pointer;
+}
+#loginButton{
+  margin-left: 500px;
+  width: 350px;
+  height: 44px;
+  margin-top: 15px;
+  border: none;
+  left: 761px;
+  top: 677px;
+  background: #5450D1;
+  border-radius: 24px;;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 23px;
+  color: #FFFFFF;
+  cursor: pointer;
 }
