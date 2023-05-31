@@ -8,11 +8,12 @@
   <link rel="stylesheet" href="login.css">
 </head>
 <body>
-  <form action="connect.php" method="post">
+  <form action="connect.php" method="post" enctype="multipart/form-data">
   <div class="loginBox">
-    <img id="loginFoto" src="fit.jpg" alt="">
-    <p id="loginWelcome">WELCOME BACK</p>
-    <p id="loginLine">____________________________________________</p>
+    <label for="profilePhoto" id="profilePhotoLabel">
+      <input id="profilePhoto" type="file" name="profilePhoto" style="display: none;">
+      <img id="loginFoto" src="pro.png" style="height: 400px; margin-top: 60px; margin-left: 30px; width: 400px;" alt="">
+    </label>
     <p id="registerText">REGISTER</p>
     <p id="unameBluebox"></p>
     <input id="loginbarUname" type="text" class="form-control" id="username" name="username" placeholder="Username">
