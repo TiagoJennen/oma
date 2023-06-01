@@ -41,14 +41,25 @@ if (isset($_SESSION['id'])) {
   echo "Not Logged In.";
 }
 ?>
-<div id="profielbox">
-<p id="naamtext">Naam:</p>
-<p id="naam"></p>
-<p id="Leeftijdtext">Leeftijd:</p>
-<p id="Leeftijd"></p>
-<p id="E-mailtext">E-mail:</p>
-<p id="E-mail"></p>
-</div>
+<div id="profielbox">    
+<p id=naam></p> 
+<p id=E-mail></p> 
+<p id=Leeftijd></p> 
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  // Form is submitted
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $age = $_POST['age'];
+
+echo '<p id="naamtext">' . "Naam &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" . htmlspecialchars($name) . '</p>';
+echo '<p id="E-mailtext">' . "E-mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " . htmlspecialchars($email) . '</p>';
+echo '<p id="Leeftijdtext">' . "Leeftijd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " . htmlspecialchars($age) . '</p>';
+}?>
+
+
+
   </div>
+  <button id="bewerken" onclick="window.location.href='./bewerken.php'">Bewerken</button>
 </body>
 </html>

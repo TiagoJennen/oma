@@ -18,6 +18,8 @@ background-color: whitesmoke;
   height: 330px;
   margin-top: 60px;
   margin-left: 50px;
+  border-radius: 20px;
+  box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.521);
 }
 #profielbox{
   width: 900px;
@@ -29,6 +31,7 @@ background-color: whitesmoke;
 }
 #naam{
   position: absolute;
+  z-index: 1;
   width: 500px;
   height: 60px;
   left: 820px;
@@ -56,10 +59,13 @@ background-color: whitesmoke;
 }
 #naamtext{
   position: absolute;
+  z-index: 5;
+  color: rgb(6, 6, 6);
   left: 650px;
   top: 194px;
   border-radius: 20px;
   font-size: 30px;
+  font-family: Arial, sans-serif;
 }
 #Leeftijdtext{
   position: absolute;
@@ -67,6 +73,7 @@ background-color: whitesmoke;
   top: 284px;
   border-radius: 20px;
   font-size: 30px;
+  font-family: Arial, sans-serif;
 }
 #E-mailtext{
   position: absolute;
@@ -74,4 +81,13 @@ background-color: whitesmoke;
   top: 374px;
   border-radius: 20px;
   font-size: 30px;
+  font-family: Arial, sans-serif;
+}
+#bewerken{
+  width: 100px;
+  background-color: white;
+  border: none;
+  position: absolute;
+  bottom: 30px;
+  margin-left: 1400px;
 }
