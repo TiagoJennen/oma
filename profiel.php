@@ -61,5 +61,6 @@ echo '<p id="Leeftijdtext">' . "Leeftijd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
   </div>
   <button id="bewerken" onclick="window.location.href='./bewerken.php'">Bewerken</button>
+  <button id="loguit" onclick="window.location.href='./login.php'">Log uit</button>
 </body>
 </html>
