@@ -15,10 +15,10 @@
   </head>
   <body>
   <div class="menu">
-    <img class="menuFoto" src="pro.png" style="margin-left: 230px;" alt="">
-    <img class="menuFoto" src="pro.png" alt="">
-    <img class="menuFoto" src="pro.png" alt="">
-    <img class="menuFoto" src="pro.png" alt="">
+    <img class="menuFoto" src="info.png" style="margin-left: 230px;" alt="">
+    <img class="menuFoto" src="kalender.png" alt="">
+    <img class="menuFoto" src="profiel.png" alt="">
+    <img class="menuFoto" src="faq.png" alt="">
   </div>
     <div class="wrapper">
       <h1>FAQ</h1>
