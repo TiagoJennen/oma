@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+.menu{
+    height: 100px;
+    width: 1544px;
+    margin-left: -8px;
+    background-color: #5450D1;
+}
+.menuFoto{
+    height: 90px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+#image{
+    width: 1440px;
+    height: 703px;
+    left: 0px;
+    top: 0px;
+}
+#box1{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    left: 100px;
+    top: 330px;
+    background: #5450D1;
+    border-radius: 10px;
+}
+#box2{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    left: 436px;
+    top: 330px;
+    background: #5450D1;
+    border-radius: 10px;
+}
+#box3{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    left: 772px;
+    top: 330px;
+    background: #5450D1;
+    border-radius: 10px;
+}
+#box4{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    left: 1110px;
+    top: 330px;
+    background: #5450D1;
+    border-radius: 10px;
+}
