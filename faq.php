@@ -16,7 +16,7 @@
   <body>
   <div class="menu">
     <img class="menuFoto" src="info.png" style="margin-left: 230px;" alt="">
-    <img class="menuFoto" src="kalender.png" alt="">
+    <img class="menuFoto" src="schema.png" alt="">
     <img class="menuFoto" src="profiel.png" alt="">
     <img class="menuFoto" src="faq.png" alt="">
   </div>
