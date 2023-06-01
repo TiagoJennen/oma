@@ -20,6 +20,6 @@
     <img class="menuFoto" src="profiel.png" alt="">
     <img class="menuFoto" src="faq.png" alt="">
   </div>
-  
+
 </body>
 </html>
