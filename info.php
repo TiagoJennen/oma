@@ -20,6 +20,6 @@
     <img class="menuFoto" src="profiel.png" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="faq.png" alt="" onclick="window.location.href='./faq.php'">
   </div>
-  
+
 </body>
 </html>
