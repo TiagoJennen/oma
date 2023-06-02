@@ -15,10 +15,10 @@ body{
     margin-top: 5px;
 }
 #image{
-    width: 1440px;
-    height: 703px;
-    left: 0px;
-    top: 0px;
+    width: 1536px;
+    height: 450px;
+    background-color: black;
+    background-image: ;
 }
 #box1{
     position: absolute;
