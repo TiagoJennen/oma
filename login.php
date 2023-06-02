@@ -10,7 +10,7 @@
 <body>
   <form action="authenticate.php" method="post">
     <div class="loginBox">
-      <img id="loginFoto" src="fit.jpg" alt="">
+      <img id="loginFoto" src="img/fit.jpg" alt="">
       <p id="loginWelcome">WELCOME BACK</p>
       <p id="loginLine">____________________________________________</p>
       <p id="loginText">LOGIN</p>
