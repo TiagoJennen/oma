@@ -9,18 +9,18 @@
 </head>
 <body>
   <form action="authenticate.php" method="post">
-  <div class="loginBox">
-    <img id="loginFoto" src="fit.jpg" alt="">
-    <p id="loginWelcome">WELCOME BACK</p>
-    <p id="loginLine">____________________________________________</p>
-    <p id="loginText">LOGIN</p>
-    <p id="unameBluebox"></p>
-    <input id="loginbarUname" type="text" name="username" placeholder="Username">
-    <p id="wwBluebox"></p>
-    <input id="loginbarWw" type="password" name="password" placeholder="Password">
-    <p id="loginToRegister" onclick="window.location.href='./register.php'">Make an Account</p>
-    <button id="loginButton" type="submit">Login</button>
+    <div class="loginBox">
+      <img id="loginFoto" src="fit.jpg" alt="">
+      <p id="loginWelcome">WELCOME BACK</p>
+      <p id="loginLine">____________________________________________</p>
+      <p id="loginText">LOGIN</p>
+      <p id="unameBluebox"></p>
+      <input id="loginbarUname" type="text" name="username" placeholder="Username">
+      <p id="wwBluebox"></p>
+      <input id="loginbarWw" type="password" name="password" placeholder="Password">
+      <p id="loginToRegister" onclick="window.location.href='./register.php'">Make an Account</p>
+      <button id="loginButton" type="submit">Login</button>
+    </div>
   </form>
-  </div>
 </body>
 </html>

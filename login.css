@@ -1,8 +1,9 @@
-body{
+body {
   background-color: whitesmoke;
   font-family: Arial, sans-serif;
 }
-.loginBox{
+
+.loginBox {
   background-color: white;
   position: relative;
   margin-top: 150px;
@@ -12,19 +13,22 @@ body{
   border-radius: 10px;
   z-index: 1;
 }
-#loginFoto{
+
+#loginFoto {
   width: 450px;
   height: 500px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
-#loginWelcome{
+
+#loginWelcome {
   margin-top: -300px;
   margin-left: 60px;
   font-size: 40px;
   color: white;
 }
-#loginLine{
+
+#loginLine {
   height: 100px;
   width: 300px;
   margin-top: -50px;
@@ -32,19 +36,22 @@ body{
   float: inline-start;
   color: white;
 }
-#loginText{
+
+#loginText {
   margin-left: 620px;
   margin-top: -300px;
   font-size: 33px;
   font-style: normal;
 }
-#registerText{
+
+#registerText {
   margin-left: 590px;
   margin-top: -408px;
   font-size: 33px;
   font-style: normal;
 }
-#loginbarUname{
+
+#loginbarUname {
   width: 320px;
   height: 58px;
   margin-top: 0px;
@@ -60,10 +67,12 @@ body{
   outline: 0;
   font-size: 15px;
 }
-#loginbarUname::placeholder{
+
+#loginbarUname::placeholder {
   color: #CFCDCD;
 }
-#loginbarWw{
+
+#loginbarWw {
   width: 320px;
   height: 58px;
   margin-left: 500px;
@@ -77,10 +86,12 @@ body{
   outline: 0;
   font-size: 15px;
 }
-#loginbarWw::placeholder{
+
+#loginbarWw::placeholder {
   color: #CFCDCD;
 }
-#unameBluebox{
+
+#unameBluebox {
   height: 60px;
   position: relative;
   width: 20px;
@@ -90,7 +101,8 @@ body{
   margin-bottom: -60px;
   z-index: 5;
 }
-#wwBluebox{
+
+#wwBluebox {
   height: 60px;
   position: relative;
   width: 20px;
@@ -99,7 +111,8 @@ body{
   margin-bottom: -60px;
   z-index: 5;
 }
-#loginToRegister{
+
+#loginToRegister {
   margin-left: 500px;
   margin-top: 20px;
   color: #5450D1;
@@ -110,7 +123,8 @@ body{
   font-family: 'Arimo';
   cursor: pointer;
 }
-#loginButton{
+
+#loginButton {
   margin-left: 500px;
   width: 350px;
   height: 44px;
@@ -126,4 +140,150 @@ body{
   line-height: 23px;
   color: #FFFFFF;
   cursor: pointer;
+}
+
+/* Media queries for laptops and desktops */
+@media (max-width: 1200px) {
+  .loginBox {
+    margin-left: 150px;
+    width: 700px;
+    height: 400px;
+  }
+  #loginFoto {
+    width: 350px;
+    height: 400px;
+  }
+  #loginWelcome {
+    margin-top: -250px;
+    margin-left: 40px;
+    font-size: 30px;
+  }
+  #loginLine {
+    height: 80px;
+    width: 250px;
+    margin-top: -40px;
+    margin-left: 20px;
+  }
+  #loginText {
+    margin-left: 520px;
+    margin-top: -250px;
+    font-size: 28px;
+  }
+  #registerText {
+    margin-left: 490px;
+    margin-top: -332px;
+    font-size: 28px;
+  }
+  #loginbarUname {
+    width: 250px;
+    height: 45px;
+    margin-top: 0px;
+    margin-left: 350px;
+    padding-left: 20px;
+    font-size: 12px;
+  }
+  #loginbarWw {
+    width: 250px;
+    height: 45px;
+    margin-left: 350px;
+    padding-left: 20px;
+    font-size: 12px;
+  }
+  #unameBluebox {
+    height: 50px;
+    width: 15px;
+    margin-left: 350px;
+    margin-top: 80px;
+    margin-bottom: -50px;
+  }
+  #wwBluebox {
+    height: 50px;
+    width: 15px;
+    margin-left: 350px;
+    margin-bottom: -50px;
+  }
+  #loginToRegister {
+    margin-left: 350px;
+    margin-top: 15px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+  #loginButton {
+    margin-left: 350px;
+    width: 280px;
+    height: 40px;
+    margin-top: 10px;
+    left: 601px;
+    top: 542px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+/* Media queries for iPhones and other mobile devices */
+/* Media queries for iPhones and other mobile devices */
+@media (max-width: 428px) {
+  .loginBox {
+    margin: 50px 20px;
+    width: auto;
+    height: 500px;
+  }
+  #loginFoto {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+  }
+  #loginWelcome {
+    margin-top: -150px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  #loginLine {
+    display: none;
+  }
+  #loginText {
+    margin-left: 20px;
+    margin-top: 140px;
+    font-size: 20px;
+  }
+  #registerText {
+    margin-left: 20px;
+    margin-top: -30px;
+    font-size: 20px;
+  }
+  #loginbarUname {
+    width: 80%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-left: 10px;
+    font-size: 12px;
+  }
+  #loginbarWw {
+    width: 80%;
+    height: 40px;
+    margin-left: 30px;
+    padding-left: 10px;
+    font-size: 12px;
+  }
+  #unameBluebox,
+  #wwBluebox {
+    display: none;
+  }
+  #loginToRegister {
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+  #loginButton {
+    margin-left: 30px;
+    width: 80%;
+    height: 40px;
+    margin-top: 10px;
+    left: auto;
+    top: auto;
+    font-size: 14px;
+    line-height: 20px;
+  }
 }
