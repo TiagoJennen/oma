@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="menu">
-    <img class="menuFoto" src="info.png"  style="margin-left: 230px;" alt="" onclick="window.location.href='./info.php'">
+    <img class="menuFoto" src="info.png"  style="margin-left: 222px;" alt="" onclick="window.location.href='./info.php'">
     <img class="menuFoto" src="schema.png" alt="" onclick="window.location.href='./schema.php'">
     <img class="menuFoto" src="profiel.png" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="faq.png" alt="" onclick="window.location.href='./faq.php'">

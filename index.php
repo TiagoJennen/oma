@@ -8,7 +8,9 @@
   <link rel="stylesheet" href="index.css">
 </head>
 <body>
-  <div id="image"></div>
+  <div id="image">
+    <img src="fitness-senioren-shutterstock_454840033-scaled12.jpg" width="1536px"  height="550" alt="">
+  </div>
   <div id="box1"><img class="menuFoto" src="info.png"  alt="" onclick="window.location.href='./info.php'"></div>
   <div id="box2"><img class="menuFoto" src="schema.png" alt="" onclick="window.location.href='./schema.php'"></div>
   <div id="box3"><img class="menuFoto" src="profiel.png" alt="" onclick="window.location.href='./profiel.php'"></div>
