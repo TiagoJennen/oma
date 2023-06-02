@@ -12,7 +12,7 @@
   <div class="loginBox">
     <label for="profilePhoto" id="profilePhotoLabel">
       <input id="profilePhoto" type="file" name="profilePhoto" style="display: none;">
-      <img id="loginFoto" src="pro.png" style="height: 400px; margin-top: 60px; margin-left: 30px; width: 400px;" alt="">
+      <img id="loginFoto" src="img/pro.png" style="height: 400px; margin-top: 60px; margin-left: 30px; width: 400px;" alt="">
     </label>
     <p id="registerText">REGISTER</p>
     <p id="unameBluebox"></p>
