@@ -9,10 +9,12 @@
 </head>
 <body>
 <div class="menu">
+<ul class="navbar-nav ml-auto">
     <img class="menuFoto" src="info.png"  style="margin-left: 222px;" alt="" onclick="window.location.href='./info.php'">
     <img class="menuFoto" src="schema.png" alt="" onclick="window.location.href='./schema.php'">
     <img class="menuFoto" src="profiel.png" style="height: 110px; margin-bottom: -10px;" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="faq.png" alt="" onclick="window.location.href='./faq.php'">
+    </ul>
   </div>
   <div id="profielFoto">
   <?php
