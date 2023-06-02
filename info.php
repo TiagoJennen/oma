@@ -20,6 +20,12 @@
     <img class="menuFoto" src="profiel.png" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="faq.png" alt="" onclick="window.location.href='./faq.php'">
   </div>
-
+  <div id="image">
+    <img src="sport.jpg" width="632px"  height="400" alt="">
+  </div>
+<div class="tekst">Informatie</div>
+<div class="tekst1">Wij geloven dat het doen van gerichte en leuke bewegingen u ondersteunt om fit te blijven, ook op latere leeftijd. Wij geloven dat een functioneel en uitdagend programma, afgestemd op uw specifieke behoeften, u helpt een goede conditie te behouden en u lichamelijk en mentaal goed te voelen. Voldoende bewegen verlaagt de kans op (chronische) ziektes. Vitaal ouder worden heeft bovendien als voordeel dat u langer uw dagelijkse activiteiten (zowel binnen als buiten) kunt blijven doen die u graag doet. Want laten we eerlijk zijn; wie wil nu niet zo lang mogelijk regie houden over eigen fitheid en vitaliteit!</div>
+<div class="tekst2">Wij richten ons op ouderen (en zorgverleners & mantelzorgers) die zolang mogelijk vitaal genoeg willen blijven met als doel langer thuis wonen. En dat op een leuke en gerichte manier. U geeft aan welke dagelijkse activiteiten belangrijk zijn om te doen en te blijven doen. U geeft aan wat de (on)mogelijkheden zijn en wij maken automatisch een uitdagend en leuk programma…… op maat!</div>
+<div class="foto"></div>
 </body>
 </html>

@@ -14,3 +14,52 @@ body{
   margin-left: 220px;
   margin-top: 5px;
 }
+.tekst{
+  position: absolute;
+  width: 239px;
+  height: 131px;
+  left: 650px;
+  top: 150px;
+  text-align: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 61px;
+  color: #000000;
+}
+.tekst1{
+  position: absolute;
+  width: 594px;
+  height: 267px;
+  left: 767px;
+  top: 250px;
+  text-align: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+.tekst2{
+  position: absolute;
+  width: 594px;
+  height: 267px;
+  left: 767px;
+  top: 475px;
+  text-align: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+#image{
+  position: absolute;
+  width: 632px;
+  height: 200px;
+  left: 88px;
+  top: 250px;
+}
