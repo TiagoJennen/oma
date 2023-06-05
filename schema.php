@@ -36,7 +36,7 @@
   </div>
   <div id="image4">
   <a href="destination4.php">
-    <img src="img/img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
+    <img src="img/img-7713.jpg" width="350px"  height="550" alt="Clickable Image">
   </div>
 
 </div>

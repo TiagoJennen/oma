@@ -63,3 +63,12 @@ h1 {
   margin-top: -5px;
   
 }
+#info1{
+  position: absolute;
+  width: 700px; 
+  height: 450px;
+  left: 775px;
+  top: 145px;
+  font-size: 22px;
+  font-family: Lucida Sans;
+}

@@ -24,8 +24,17 @@
   </div>
   <div id="image1">
        <img src="img/img-7715.jpg" width="350px"  height="550" alt="Clickable Image">
-      
-
-       </div>
+</div>
+<div id="image2">
+    <img src="img/img-7716.jpg" width="350px"  height="550" alt="Clickable Image">
+</div>
+<div id="info1">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet consequatur culpa saepe repellendus cupiditate, sed, eos fuga facere, beatae assumenda quidem ex alias. Maiores tempora, at officiis amet optio aliquam!
+<br>
+<br>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium est reiciendis ex quas ratione maxime incidunt libero expedita facere, sequi asperiores fugiat sapiente! Rem incidunt dolorem obcaecati neque cumque veritatis.
+<br>
+<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestias nostrum a nesciunt reiciendis ab inventore, ullam sapiente iusto enim harum mollitia aliquam et voluptatem, magni sed quos, illo iste.
 </body>
 </html>

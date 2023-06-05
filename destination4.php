@@ -23,9 +23,18 @@
   </ul>
   </div>
   <div id="image1">
-       <img src="img/img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
-      
-
-       </div>
+       <img src="img/img-7713.jpg" width="350px"  height="550" alt="Clickable Image">
+</div>
+<div id="image2">
+    <img src="img/img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
+</div>
+<div id="info1">
+Techniek: Ga voor een muur staan met je voeten op schouderbreedte uit elkaar. Plaats je handen op borsthoogte iets breder dan schouderbreedte uit elkaar op de muur. Leun naar voren, houd je lichaam recht en buig je ellebogen om je borst naar de muur te laten zakken.
+<br>
+<br>
+Spiergroepen: Wall push-ups zijn voornamelijk gericht op de borstspieren (pectoralis), maar ze activeren ook de schouderspieren (deltoids) en de triceps (achterkant van de bovenarmen). Ze kunnen ook de kernspieren (buikspieren en onderrug) betrekken, afhankelijk van de stabiliteit die je tijdens de oefening behoudt.
+<br>
+<br>
+Aanpassingen: Je kunt de moeilijkheidsgraad van wall push-ups aanpassen door je voeten verder van de muur te plaatsen. Hoe verder je van de muur staat, hoe groter de belasting op je spieren. Je kunt ook variëren in de afstand tussen je handen en de hoogte waarop je je handen plaatst, afhankelijk van je comfortniveau en kracht.
 </body>
 </html>
