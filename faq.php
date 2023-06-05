@@ -70,12 +70,12 @@
       </div>
       <div class="faq">
         <button class="accordion">
-        Hoe is deze website tot stand gekomen?
+        Welke sporten zijn geschikt voor oudere mensen?
           <i class="fa-solid fa-chevron-down"></i>
         </button>
         <div class="pannel">
           <p>
-        
+        Er zijn verschillende sporten en activiteiten die geschikt zijn voor oudere mensen, afhankelijk van hun fysieke conditie en interesses. Populaire keuzes zijn wandelen, zwemmen, fietsen, tai chi, yoga, aquarobics en krachttraining met lichte gewichten.
           </p>
         </div>
       </div>
