@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+  }
+  .menu{
+    margin-top: -16px;
+    margin-left: -8px;
+
+    background-color: #5450D1;
+  }
+  .menuFoto{
+    height: 90px;
+    margin-left: 220px;
+    margin-top: -5px;
+  }
+
+  /* style.css */
+h1 {
+  color: #333;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#image1{
+  position: absolute;
+  width: 232px;
+  height: 200px;
+  left: 68px;
+  top: 150px;
+  margin-top: -5px;
+  margin-left: -50px;
+}
+
+
+#image2{
+  position: absolute;
+  width: 232px;
+  height: 200px;
+  left: 80px;
+  top: 150px;
+  margin-top: -5px;
+  margin-left: 320px;
+}
+
+
+#image3{
+  position: absolute;
+  width: 232px;
+  height: 200px;
+  left: 785px;
+  top: 150px;
+  margin-top: -5px;
+ 
+}
+
+#image4{
+  position: absolute;
+  width: 232px;
+  height: 200px;
+  left: 1168px;
+  top: 150px;
+  margin-top: -5px;
+  
+}

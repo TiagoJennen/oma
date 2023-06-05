@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Schema</title>
-  <link rel="stylesheet" href="schema.css">
+  <link rel="stylesheet" href="destination.css">
   <link
       rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
       integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
@@ -23,22 +23,9 @@
   </ul>
   </div>
   <div id="image1">
-  <a href="destination1.php">
-       <img src="img/img-7709.jpg" width="350px"  height="550" alt="Clickable Image">
-  </div>
-  <div id="image2">
-  <a href="destination2.php">
-    <img src="img/img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
-  </div>
-  <div id="image3">
-  <a href="destination3.php">
-    <img src="img/img-7715.jpg" width="350px"  height="550" alt="Clickable Image">
-  </div>
-  <div id="image4">
-  <a href="destination4.php">
-    <img src="img/img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
-  </div>
+       <img src="img/img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
+      
 
-</div>
+       </div>
 </body>
 </html>
