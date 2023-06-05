@@ -16,9 +16,9 @@
   <body>
   <div class="menu">
   <ul class="navbar-nav ml-auto">
-    <img class="menuFoto" src="img/info.png"  style="margin-left: 261px;" alt="" onclick="window.location.href='./info.php'">
+    <img class="menuFoto1" src="img/info.png" alt="" onclick="window.location.href='./info.php'">
     <img class="menuFoto" src="img/schema.png" alt="" onclick="window.location.href='./schema.php'">
-    <img class="menuFoto" src="img/profiel.png" style="height: 110px; margin-bottom: -10px;" alt="" onclick="window.location.href='./profiel.php'">
+    <img class="menuFoto2" src="img/profiel.png" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="img/faq.png" alt="" onclick="window.location.href='./faq.php'">
   </ul>
   </div>

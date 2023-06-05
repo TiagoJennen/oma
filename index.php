@@ -9,7 +9,6 @@
 </head>
 <body>
   <div id="image">
-    <img src="img/fitness-senioren-shutterstock_454840033-scaled12.jpg" width="1536px"  height="550" alt="">
   </div>
   <div id="box1"><img class="menuFoto" src="img/info.png"  alt="" onclick="window.location.href='./info.php'"></div>
   <div id="box2"><img class="menuFoto" src="img/schema.png" alt="" onclick="window.location.href='./schema.php'"></div>

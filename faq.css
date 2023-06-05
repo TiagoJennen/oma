@@ -11,6 +11,18 @@ body{
   margin-left: 220px;
   margin-top: -5px;
 }
+.menuFoto1{
+  height: 90px;
+  margin-left: 261px;
+  margin-top: -5px;
+  
+}
+.menuFoto2{
+  height: 110px;
+  margin-left: 220px;
+  margin-top: -5px;
+  margin-bottom: -10px;
+}
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
   padding: 0;
@@ -77,4 +89,22 @@ body{
 }
 .faq.active {
   border: none;
+}
+@media (max-width: 576px) {
+  .menu {
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .menuFoto1,
+  .menuFoto2,
+  .menuFoto
+   {
+    height: 60px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    margin-right: 20px;
+  }
 }

@@ -16,14 +16,13 @@
 <body>
 <div class="menu">
 <ul class="navbar-nav ml-auto">
-    <img class="menuFoto" src="img/info.png"  style="margin-left: 230px;" alt="" onclick="window.location.href='./info.php'">
+    <img class="menuFoto1" src="img/info.png" alt="" onclick="window.location.href='./info.php'">
     <img class="menuFoto" src="img/schema.png" alt="" onclick="window.location.href='./schema.php'">
-    <img class="menuFoto" src="img/profiel.png" style="height: 110px; margin-bottom: -10px;" alt="" onclick="window.location.href='./profiel.php'">
+    <img class="menuFoto2" src="img/profiel.png" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="img/faq.png" alt="" onclick="window.location.href='./faq.php'">
   </ul>
   </div>
   <div id="image">
-    <img src="img/sport.jpg" width="632px"  height="400" alt="">
   </div>
 <div class="tekst">INFORMATIE</div>
 <div class="tekst1">Wij geloven dat het doen van gerichte en leuke bewegingen u ondersteunt om fit te blijven, ook op latere leeftijd. Wij geloven dat een functioneel en uitdagend programma, afgestemd op uw specifieke behoeften, u helpt een goede conditie te behouden en u lichamelijk en mentaal goed te voelen. Voldoende bewegen verlaagt de kans op (chronische) ziektes. Vitaal ouder worden heeft bovendien als voordeel dat u langer uw dagelijkse activiteiten (zowel binnen als buiten) kunt blijven doen die u graag doet. Want laten we eerlijk zijn; wie wil nu niet zo lang mogelijk regie houden over eigen fitheid en vitaliteit!</div>
