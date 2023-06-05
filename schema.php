@@ -36,6 +36,9 @@
 </div>
 <div id="image4">
   <img src="img/img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
+
+      </div>
+
 </div>
 </body>
 </html>
