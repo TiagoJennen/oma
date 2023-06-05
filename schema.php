@@ -24,18 +24,18 @@
   </div>
   <div id="image1">
   <a href="destination.html">
-       <img src="img-7709.jpg" width="350px"  height="550" alt="Clickable Image">
+       <img src="img-7709.jpg" width="150%"  height="550" alt="Clickable Image">
       
   </div>
   <div id="image2">
-  <img src="img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
+  <img src="img-7711.jpg" width="150%"  height="550" alt="Clickable Image">
 </div>
 </div>
   <div id="image3">
-  <img src="img-7715.jpg" width="350px"  height="550" alt="Clickable Image">
+  <img src="img-7715.jpg" width="150%"  height="550" alt="Clickable Image">
 </div>
 <div id="image4">
-  <img src="img-7714.jpg" width="350px"  height="550" alt="Clickable Image">
+  <img src="img-7714.jpg" width="150%"  height="550" alt="Clickable Image">
 </div>
 </body>
 </html>
