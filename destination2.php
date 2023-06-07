@@ -22,6 +22,45 @@
     <img class="menuFoto" src="img/faqpng.png" style="height: 102px; margin-bottom: -6px;" alt="" onclick="window.location.href='./faq.php'">
   </ul>
   </div>
+
+<style>
+.button-container {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  z-index: 9999;
+}
+
+.button {
+  background-color: #5450D1; 
+  color: white; 
+  border: none; 
+  padding: 10px 20px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+  font-family: Lucida Sans;
+}
+
+.left-button {
+  float: left;
+}
+
+.right-button {
+  float: right;
+}
+</style>
+
+<div class="button-container">
+  <a href="destination1.php" class="button left-button">Vorige</a>
+  <a href="destination3.php" class="button right-button">Volgende</a>
+</div>
+
   <div id="image1">
        <img src="img/img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>

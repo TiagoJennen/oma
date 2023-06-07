@@ -28,7 +28,7 @@ h1 {
   height: 200px;
   left: 68px;
   top: 150px;
-  margin-top: -5px;
+  margin-top: -25px;
   margin-left: -50px;
 }
 
@@ -39,7 +39,7 @@ h1 {
   height: 200px;
   left: 80px;
   top: 150px;
-  margin-top: -5px;
+  margin-top: -25px;
   margin-left: 320px;
 }
 
@@ -68,7 +68,7 @@ h1 {
   width: 700px; 
   height: 450px;
   left: 775px;
-  top: 145px;
+  top: 125px;
   font-size: 22px;
   font-family: Lucida Sans;
 }
