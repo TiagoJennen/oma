@@ -32,6 +32,7 @@ body {
   top: 330px;
   background: #5450D1;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 #box2 {
@@ -42,6 +43,7 @@ body {
   top: 330px;
   background: #5450D1;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 #box3 {
@@ -52,6 +54,7 @@ body {
   top: 330px;
   background: #5450D1;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 #box4 {
@@ -62,6 +65,7 @@ body {
   top: 330px;
   background: #5450D1;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 /* Media queries for mobile devices */
