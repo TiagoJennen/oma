@@ -29,12 +29,15 @@
     <img src="img/img-7716.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>
 <div id="info1">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet consequatur culpa saepe repellendus cupiditate, sed, eos fuga facere, beatae assumenda quidem ex alias. Maiores tempora, at officiis amet optio aliquam!
+Basiszithouding: Ga op de grond zitten met je benen recht voor je uitgestrekt. Zorg ervoor dat je rug recht is en je bekken in een neutrale positie is.
 <br>
 <br>
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium est reiciendis ex quas ratione maxime incidunt libero expedita facere, sequi asperiores fugiat sapiente! Rem incidunt dolorem obcaecati neque cumque veritatis.
+Enkelbuiging: Buig één been bij de knie en plaats je voet tegen de binnenkant van je dij van het andere been. Houd je rug recht en je voet in een neutrale positie (niet naar binnen of naar buiten gedraaid).
 <br>
 <br>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestias nostrum a nesciunt reiciendis ab inventore, ullam sapiente iusto enim harum mollitia aliquam et voluptatem, magni sed quos, illo iste.
+Vooroverbuigen: Buig vanuit je heupen langzaam voorover terwijl je je rug recht houdt. Probeer je handen naar je tenen te reiken en zo ver mogelijk te strekken. Let op dat je je rug niet rond maakt.
+<br>
+<br>
+Statische rek: Houd de voorovergebogen positie vast en probeer de rek in je hamstrings te voelen. Blijf 20-30 seconden in deze positie en adem rustig door. Probeer geleidelijk dieper in de stretch te komen, maar forceer niets. Onthoud dat het normaal is om een lichte spanning of trek in de spieren te voelen, maar geen pijn.
 </body>
 </html>

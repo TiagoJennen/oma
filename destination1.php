@@ -29,13 +29,15 @@
     <img src="img/img-7710.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>
 <div id="info1">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, placeat dolore ratione accusantium nobis natus, voluptate esse tempora enim iusto aspernatur nesciunt voluptas voluptatum consequatur. Labore possimus pariatur officiis ratione.
+Uitgangspositie: Ga rechtop staan met je voeten op heupbreedte uit elkaar. Plaats je handen op je heupen of houd ze voor je evenwicht lichtjes naar voren.
 <br>
 <br>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique cumque pariatur quibusdam ipsam neque, voluptas voluptatum nemo est ab tempore mollitia perspiciatis eveniet eos laboriosam tempora, harum, reiciendis repellat deserunt.
+Spreid je been uit: Begin met het naar de zijkant brengen van een been. Houd je knie gestrekt en beweeg je been naar de zijkant zo ver als comfortabel is voor jou. Het is prima als je niet te hoog kunt gaan, ga gewoon zo ver als je kunt zonder pijn.
 <br>
 <br>
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi velit fugiat beatae dolore harum, laborum sed nobis voluptas, inventore natus dicta saepe eveniet voluptatum magni odio minus iusto possimus quisquam.
-</div>
+Gecontroleerde beweging: Beweeg je been zijwaarts in een gecontroleerde beweging. Houd je romp recht en vermijd te leunen naar de tegenovergestelde kant. Je moet voelen hoe de spieren aan de buitenkant van je heup en dij zich aanspannen.
+<br>
+<br>
+Houd even vast: Houd je been enkele seconden op het hoogste punt van de beweging vast, waar je de spanning het meest voelt. Dit helpt bij het versterken van de spieren en verbetert de stabiliteit.
 </body>
 </html>

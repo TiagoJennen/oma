@@ -29,12 +29,15 @@
     <img src="img/img-7712.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>
 <div id="info1">
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores animi vel, mollitia itaque sit minus, fuga aut quas enim dignissimos repellat totam sint voluptatibus, nam quia error? Exercitationem, amet quasi.
+Uitgangspositie: Sta rechtop met je voeten op heupbreedte uit elkaar. Houd in elke hand een dumbbell, een halter of een ander gewicht vast, met je handpalmen naar voren gericht. Laat je armen langs je zij hangen.
 <br>
 <br>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quo error amet fugiat reiciendis, fugit autem sint necessitatibus facilis minima quae beatae quibusdam et porro cupiditate dicta soluta in? Voluptatem.
+Beweging: Breng langzaam de gewichten omhoog richting je schouders door je onderarmen te buigen bij de ellebogen. Houd je bovenarmen stil tijdens de beweging. Adem normaal uit terwijl je de gewichten omhoog beweegt.
 <br>
 <br>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quae hic suscipit reprehenderit sit quod, corporis voluptatem, et cum velit ducimus exercitationem, officia iusto obcaecati praesentium autem fugiat reiciendis ipsam.
+Concentrische fase: Breng de gewichten gecontroleerd omhoog totdat je biceps volledig gecontracteerd zijn en de gewichten dicht bij je schouders zijn. Knijp je biceps aan de bovenkant van de beweging samen.
+<br>
+<br>
+Excentrische fase: Laat de gewichten langzaam zakken terwijl je je spieren onder spanning houdt. Breng de gewichten terug naar de startpositie met gestrekte armen. Adem normaal in terwijl je de gewichten laat zakken.
 </body>
 </html>
