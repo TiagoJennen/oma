@@ -26,6 +26,19 @@ body{
   margin-top: -5px;
   margin-bottom: -10px;
 }
+.menuFoto3{
+  margin-left: 220px;
+  margin-top: -5px;
+  height: 95px; 
+  margin-bottom: -2px
+  
+}
+.menuFoto4{
+  margin-left: 220px;
+  margin-top: -5px;
+  height: 102px; 
+  margin-bottom: -6px;
+}
 .tekst{
   position: absolute;
   width: 239px;
@@ -87,6 +100,8 @@ body{
 
   .menuFoto1,
   .menuFoto2,
+  .menuFoto3,
+  .menuFoto4,
   .menuFoto
    {
     height: 60px;

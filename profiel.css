@@ -24,6 +24,18 @@ background-color: whitesmoke;
   margin-top: -5px;
   margin-bottom: -10px;
 }
+.menuFoto3{
+  margin-left: 222px;
+  margin-top: -5px;
+  height: 95px; 
+  margin-bottom: -2px;
+}
+.menuFoto4{
+  margin-left: 220px;
+  margin-top: -5px;
+  height: 102px; 
+  margin-bottom: -6px;
+}
 #profielFoto img {
   width: 369px;
   height: 330px;
@@ -112,18 +124,20 @@ background-color: whitesmoke;
 }
 @media (max-width: 576px) {
   .menu {
-    height: auto;
+    height: 90px;
     display: flex;
     justify-content: space-around;
   }
 
   .menuFoto1,
   .menuFoto2,
+  .menuFoto3,
+  .menuFoto4,
   .menuFoto
    {
     height: 60px;
     margin: 0;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: -10px;
     margin-right: 20px;
   }
