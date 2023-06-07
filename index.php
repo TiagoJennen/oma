@@ -11,8 +11,8 @@
   <div id="image">
   </div>
   <div id="box1"><img class="menuFoto" src="img/info.png"  alt="" onclick="window.location.href='./info.php'"></div>
-  <div id="box2"><img class="menuFoto" src="img/schema.png" alt="" onclick="window.location.href='./schema.php'"></div>
+  <div id="box2"><img class="menuFoto" src="img/gym.png" alt="" onclick="window.location.href='./gym.php'"></div>
   <div id="box3"><img class="menuFoto" src="img/profiel.png" alt="" onclick="window.location.href='./profiel.php'"></div>
-  <div id="box4"><img class="menuFoto" src="img/faq.png" alt="" onclick="window.location.href='./faq.php'"></div>
+  <div id="box4"><img class="menuFoto" src="img/faqpng.png" alt="" onclick="window.location.href='./faq.php'"></div>
 </body>
 </html>
