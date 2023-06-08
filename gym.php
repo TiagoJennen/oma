@@ -16,10 +16,10 @@
 <body>
 <div class="menu">
 <ul class="navbar-nav ml-auto">
-    <img class="menuFoto" src="img/info.png"  style="margin-left: 230px;" alt="" onclick="window.location.href='./info.php'">
-    <img class="menuFoto" src="img/gym.png" style="height: 95px; margin-bottom: -2px;" alt="" onclick="window.location.href='./gym.php'">
-    <img class="menuFoto" src="img/profiel.png" style="height: 110px; margin-bottom: -10px;" alt="" onclick="window.location.href='./profiel.php'">
-    <img class="menuFoto" src="img/faqpng.png" style="height: 102px; margin-bottom: -6px;" alt="" onclick="window.location.href='./faq.php'">
+    <img class="menuFoto1" src="img/info.png" alt="" onclick="window.location.href='./info.php'">
+    <img class="menuFoto2" src="img/gym.png" alt="" onclick="window.location.href='./gym.php'">
+    <img class="menuFoto3" src="img/profiel.png" alt="" onclick="window.location.href='./profiel.php'">
+    <img class="menuFoto4" src="img/faqpng.png" alt="" onclick="window.location.href='./faq.php'">
   </ul>
   </div>
   <div id="image1">
@@ -42,3 +42,5 @@
 </div>
 </body>
 </html>
+
+
