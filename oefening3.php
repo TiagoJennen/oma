@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Schema</title>
-  <link rel="stylesheet" href="destination.css">
+  <title>Oefening 3</title>
+  <link rel="stylesheet" href="oefening.css">
   <link
       rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
       integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
@@ -16,7 +16,7 @@
 <body>
 <div class="menu">
 <ul class="navbar-nav ml-auto">
-<img class="menuFoto" src="img/info.png"  style="margin-left: 230px;" alt="" onclick="window.location.href='./info.php'">
+    <img class="menuFoto" src="img/info.png"  style="margin-left: 230px;" alt="" onclick="window.location.href='./info.php'">
     <img class="menuFoto" src="img/gym.png" style="height: 95px; margin-bottom: -2px;" alt="" onclick="window.location.href='./gym.php'">
     <img class="menuFoto" src="img/profiel.png" style="height: 110px; margin-bottom: -10px;" alt="" onclick="window.location.href='./profiel.php'">
     <img class="menuFoto" src="img/faqpng.png" style="height: 102px; margin-bottom: -6px;" alt="" onclick="window.location.href='./faq.php'">
@@ -34,10 +34,10 @@
 }
 
 .button {
-  background-color: #5450D1; 
-  color: white; 
-  border: none; 
-  padding: 10px 20px; 
+  background-color: #5450D1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -57,26 +57,27 @@
 </style>
 
 <div class="button-container">
-  <a href="destination1.php" class="button left-button">Vorige</a>
-  <a href="destination3.php" class="button right-button">Volgende</a>
+  <a href="oefening2.php" class="button left-button">Vorige</a>
+  <a href="oefening4.php" class="button right-button">Volgende</a>
 </div>
 
+
   <div id="image1">
-       <img src="img/img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
+       <img src="img/img-7715.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>
 <div id="image2">
-    <img src="img/img-7712.jpg" width="350px"  height="550" alt="Clickable Image">
+    <img src="img/img-7716.jpg" width="350px"  height="550" alt="Clickable Image">
 </div>
 <div id="info1">
-Uitgangspositie: Sta rechtop met je voeten op heupbreedte uit elkaar. Houd in elke hand een dumbbell, een halter of een ander gewicht vast, met je handpalmen naar voren gericht. Laat je armen langs je zij hangen.
+Basiszithouding: Ga op de grond zitten met je benen recht voor je uitgestrekt. Zorg ervoor dat je rug recht is en je bekken in een neutrale positie is.
 <br>
 <br>
-Beweging: Breng langzaam de gewichten omhoog richting je schouders door je onderarmen te buigen bij de ellebogen. Houd je bovenarmen stil tijdens de beweging. Adem normaal uit terwijl je de gewichten omhoog beweegt.
+Enkelbuiging: Buig één been bij de knie en plaats je voet tegen de binnenkant van je dij van het andere been. Houd je rug recht en je voet in een neutrale positie (niet naar binnen of naar buiten gedraaid).
 <br>
 <br>
-Concentrische fase: Breng de gewichten gecontroleerd omhoog totdat je biceps volledig gecontracteerd zijn en de gewichten dicht bij je schouders zijn. Knijp je biceps aan de bovenkant van de beweging samen.
+Vooroverbuigen: Buig vanuit je heupen langzaam voorover terwijl je je rug recht houdt. Probeer je handen naar je tenen te reiken en zo ver mogelijk te strekken. Let op dat je je rug niet rond maakt.
 <br>
 <br>
-Excentrische fase: Laat de gewichten langzaam zakken terwijl je je spieren onder spanning houdt. Breng de gewichten terug naar de startpositie met gestrekte armen. Adem normaal in terwijl je de gewichten laat zakken.
+Statische rek: Houd de voorovergebogen positie vast en probeer de rek in je hamstrings te voelen. Blijf 20-30 seconden in deze positie en adem rustig door. Probeer geleidelijk dieper in de stretch te komen, maar forceer niets. Onthoud dat het normaal is om een lichte spanning of trek in de spieren te voelen, maar geen pijn.
 </body>
 </html>
