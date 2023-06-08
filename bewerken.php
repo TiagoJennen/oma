@@ -1,16 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Form Submission</title>
-    <style>
-        .error {
-            color: red;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bewerken</title>
+    <link rel="stylesheet" href="bewerken.css" />
+    <link
+      rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolic2y="no-referrer"
+    />
 </head>
 <body>
     <form action="profiel.php" method="POST">
-        <label for="name">Name:</label>
+        <label for="name">Naam:</label>
         <input type="text" id="name" name="name" required>
         <span class="error" id="name-error"></span><br>
 
@@ -18,7 +23,7 @@
         <input type="email" id="email" name="email" required>
         <span class="error" id="email-error"></span><br>
 
-        <label for="age">Age:</label>
+        <label for="age">Leeftijd:</label>
         <input type="number" id="age" name="age" required>
         <span class="error" id="age-error"></span><br>
 
