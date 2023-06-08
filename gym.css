@@ -9,13 +9,31 @@ body{
 
     background-color: #5450D1;
   }
-  .menuFoto{
+  .menuFoto1{
     height: 90px;
-    margin-left: 220px;
+    margin-left: 230px;
     margin-top: -5px;
   }
+  .menuFoto2{
+    height: 95px;
+    margin-left: 220px;
+    margin-top: -5px;
+    margin-bottom: -2px;
+  }
+  .menuFoto3{
+    height: 110px;
+    margin-left: 220px;
+    margin-top: -5px;
+    margin-bottom: -10px;
+  }
+  .menuFoto4{
+    height: 102px;
+    margin-left: 220px;
+    margin-top: -5px;
+    margin-bottom: -6px;
+  }
 
-  /* style.css */
+
 h1 {
   color: #333;
   font-size: 24px;
@@ -62,4 +80,23 @@ h1 {
   top: 150px;
   margin-top: -5px;
   
+}
+@media (max-width: 576px){
+  .menu{
+      width: 100%;
+      height: 70px;
+      margin-left: 0;
+  }
+  .menuFoto1,
+  .menuFoto2,
+  .menuFoto3,
+  .menuFoto4,
+  .menuFoto
+   {
+    height: 60px;
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: -10px;
+    margin-right: 20px;
+  }
 }
