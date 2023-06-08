@@ -23,19 +23,19 @@
   </ul>
   </div>
   <div id="image1">
-  <a href="destination1.php">
+  <a href="oefening1.php">
        <img src="img/img-7709.jpg" width="350px"  height="550" alt="Clickable Image">
   </div>
   <div id="image2">
-  <a href="destination2.php">
+  <a href="oefening2.php">
     <img src="img/img-7711.jpg" width="350px"  height="550" alt="Clickable Image">
   </div>
   <div id="image3">
-  <a href="destination3.php">
+  <a href="oefening3.php">
     <img src="img/img-7715.jpg" width="350px"  height="550" alt="Clickable Image">
   </div>
   <div id="image4">
-  <a href="destination4.php">
+  <a href="oefening4.php">
     <img src="img/img-7713.jpg" width="350px"  height="550" alt="Clickable Image">
   </div>
 
